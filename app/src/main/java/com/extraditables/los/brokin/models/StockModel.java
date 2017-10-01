@@ -2,6 +2,8 @@ package com.extraditables.los.brokin.models;
 
 import java.util.Comparator;
 
+// Model of the stock symbol object
+
 public class StockModel {
 
     private String symbol;
